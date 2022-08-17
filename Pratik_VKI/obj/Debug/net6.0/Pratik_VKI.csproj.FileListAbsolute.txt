@@ -1,0 +1,15 @@
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/bin/Debug/net6.0/Pratik_VKI
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/bin/Debug/net6.0/Pratik_VKI.deps.json
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/bin/Debug/net6.0/Pratik_VKI.runtimeconfig.json
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/bin/Debug/net6.0/Pratik_VKI.dll
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/bin/Debug/net6.0/Pratik_VKI.pdb
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.csproj.AssemblyReference.cache
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.AssemblyInfoInputs.cache
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.AssemblyInfo.cs
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.csproj.CoreCompileInputs.cache
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.dll
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/refint/Pratik_VKI.dll
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.pdb
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/Pratik_VKI.genruntimeconfig.cache
+/Users/goksu/Projects/Pratik_VKI/Pratik_VKI/obj/Debug/net6.0/ref/Pratik_VKI.dll
